@@ -1,4 +1,4 @@
-<img src="[LOGO - BFECO - COLOR - 2598x500px - White.png](https://github.com/Blockfinance-ECO/.github/blob/main/profile/LOGO%20-%20BFECO%20-%20COLOR%20-%202598x500px%20-%20White.png)" alt="BFECO Logo" style="width:500px">
+<img src="https://github.com/Blockfinance-ECO/.github/blob/main/profile/LOGO%20-%20BFECO%20-%20COLOR%20-%202598x500px%20-%20White.png" alt="BFECO Logo" style="width:500px">
 
 
 ## Who is Blockfinance ECO AG?
@@ -13,7 +13,7 @@ These companies give BlockFinance ECO AG access to a large international team of
 
 In addition, the company also works closely with various partners, including tax advisory firms, trustees, and banks, to provide secure and efficient crypto-asset management solutions.
 
-<img src="[bfeco_partner_map.png](https://github.com/Blockfinance-ECO/.github/blob/main/profile/bfeco_partner_map.png)" alt="BlockFinance ECO AG Partner Companies" style="width:500px">
+<img src="https://github.com/Blockfinance-ECO/.github/blob/main/profile/bfeco_partner_map.png" alt="BlockFinance ECO AG Partner Companies" style="width:500px">
 
 
 ## Mission
@@ -29,7 +29,7 @@ BlockFinance ECO strives to do three things:
 
 ## CryptoWorkspace
 
-<img src="[crwksp_logo.png](https://github.com/Blockfinance-ECO/.github/blob/main/profile/crwksp_logo.png)" alt="CryptoWorkspace Logo" style="width:350px">
+<img src="https://github.com/Blockfinance-ECO/.github/blob/main/profile/crwksp_logo.png" alt="CryptoWorkspace Logo" style="width:350px">
 
 Is an ongoing three year in-house development. CryptoWorkspace is SaaS platform which provides a comprehensive solution for individuals and companies looking to manage their bitcoin transactions. 
 
