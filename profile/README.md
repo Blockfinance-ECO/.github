@@ -31,7 +31,7 @@ BlockFinance ECO strives to do three things:
 
 <img src="https://github.com/Blockfinance-ECO/.github/blob/main/profile/crwksp_logo.png" alt="CryptoWorkspace Logo" style="width:350px">
 
-Is an ongoing three year in-house development. CryptoWorkspace is SaaS platform which provides a comprehensive solution for individuals and companies looking to manage their bitcoin transactions. 
+Is an ongoing three year in-house development. CryptoWorkspace is a SaaS platform which provides a comprehensive solution for individuals and companies looking to manage their bitcoin transactions. 
 
 As bitcoin transactions are built on a decentralized blockchain technology, ensuring safety and compliance requires the use of specific tools to gather necessary information. 
 
